@@ -1,0 +1,15 @@
+# Archivos de entorno y credenciales (seguridad estricta)
+.env
+*.env
+*.key
+*.pem
+*.token
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Temporales y respaldos
+*.bak
+*.tmp
+*.log
