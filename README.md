@@ -12,7 +12,7 @@ Este repositorio público aloja la documentación oficial, política de privacid
 - **Facebook Page ID:** `570389186343678`
 - **URL de la Página de Facebook:** [https://www.facebook.com/florencianoscomunidad](https://www.facebook.com/florencianoscomunidad)
 - **Sistema Editorial Asociado:** *Florencianos Noticias AI (BotFlo)*
-- **Correo Institucional Oficial:** `contacto@florencianos.com`
+- **Correo Oficial de Contacto:** `pochomurcia12@gmail.com`
 
 ---
 
